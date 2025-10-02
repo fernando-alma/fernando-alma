@@ -7,7 +7,7 @@
 ---
 
 ## 🚀 Sobre mí
-- 30+ proyectos en agencia (90% WordPress + WooCommerce)
+- +30 proyectos en un agencia de marketing digital (90% WordPress + WooCommerce + Jet Engine)
 - Freelance bajo mi marca **Soulware** (gestión end-to-end)
 - Comunicación con clientes, foco en calidad y performance
 - Interés en liderazgo técnico y buenas prácticas
@@ -44,38 +44,9 @@
 
 ## 📊 Resumen por nivel
 **Avanzado:** WordPress, WooCommerce, cPanel/WHM, JetEngine  
-**Intermedio:** Java, JavaScript, HTML/CSS, React, Node.js, MySQL, OOP  
-**Básico:** TypeScript, Python, Vue, Express, Sass, MongoDB, REST APIs, SEO, Google Site Kit
+**Intermedio:** Java, JavaScript, HTML/CSS, React, Vue, Node.js, MySQL, OOP  
+**Básico:** TypeScript, Python, Express, Sass, MongoDB, REST APIs, JWT, SEO, Google Site Kit
 
----
-
-## 🌟 Proyectos Destacados como Freelance
-
-
-### 🛒 E-commerce Internacional
-![Ecommerce](./assets/ecommerce-internacional.png)
-Sitio para cliente del exterior con catálogo y checkout.
-**Demo:** https://tu-demo.com • **Repo:** https://github.com/fernando-alma/ecommerce-intl
-
-### 🏢 Termet
-![Termet](./assets/termet.png)
-Web institucional en WordPress optimizada para performance.
-**Demo:** https://termet.com • **Repo:** https://github.com/fernando-alma/termet
-
-### 🌱 Vera Reciclados
-![Vera Reciclados](./assets/vera-reciclados.png)
-Landing page orientada a conversión y SEO básico.
-**Demo:** https://vera.com • **Repo:** https://github.com/fernando-alma/vera
-
-### 🌸 Casita de Flor
-![Casita de Flor](./assets/casita-de-flor.png)
-Sitio institucional con catálogo administrable.
-**Demo:** https://casitadeflor.com • **Repo:** https://github.com/fernando-alma/casita
-
-### 🎨 Victoria
-![Victoria](./assets/victoria.png)
-Web informativa con integración WooCommerce.
-**Demo:** https://victoria.com • **Repo:** https://github.com/fernando-alma/victoria
 
 ---
 
