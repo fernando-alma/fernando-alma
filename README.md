@@ -1,18 +1,20 @@
-# 👋 ¡Hola! Soy Fernando Alma
+# 👋 ¡Hola! Soy Fernando Alma  
 
-💻 Desarrollador Web **Fullstack** — 🎯 Meta personal 2025: especializarme en **Backend con Java** (cert. OCI)  
-🎓 Último semestre de la **Tecnicatura Superior en Programación**  
-🧭 Me gusta liderar, trabajar en equipo y aprender tecnologías nuevas
+Soy **Desarrollador Web Fullstack** con experiencia en la creación de soluciones digitales para empresas, agencias y emprendedores. Disfruto todo el proceso de desarrollo —desde el backend hasta el frontend— y actualmente estoy enfocado en fortalecer mis habilidades en **Backend con Java**, camino hacia la certificación **Oracle OCI**.  
+
+🎓 Curso el **último semestre de la Tecnicatura Superior en Programación (UTN)**  
+💼 Más de **30 proyectos** desarrollados en una agencia de marketing digital (WordPress, WooCommerce, JetEngine)  
+🚀 Trabajo como **freelance** bajo mi marca personal **Soulware**, gestionando proyectos de punta a punta  
+💬 Me destaco por mi **comunicación con clientes**, enfoque en la **calidad**, la **performance** y el **trabajo en equipo**  
+🧭 Interesado en seguir desarrollando mi **liderazgo técnico** y adoptando **buenas prácticas** en cada nuevo desafío  
+
+---
+
+> “Me motiva aprender, mejorar y acompañar a otros a crecer, tanto en lo técnico como en lo humano. Cada proyecto es una oportunidad para evolucionar.”
+
 
 ---
 
-## 🚀 Sobre mí
-- +30 proyectos en un agencia de marketing digital (90% WordPress + WooCommerce + Jet Engine)
-- Freelance bajo mi marca **Soulware** (gestión end-to-end)
-- Comunicación con clientes, foco en calidad y performance
-- Interés en liderazgo técnico y buenas prácticas
-
----
 
 ## 🧰 Skills Técnicos  
 
