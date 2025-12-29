@@ -7,8 +7,9 @@ Mi enfoque actual combina la solidez en el desarrollo de soluciones a medida con
 ---
 
 - 💼 **Liderazgo Técnico en Alpha Docere:** Actualmente lidero la modernización de sistemas legacy, refactorización hacia microservicios y automatización de flujos de trabajo con **IA**.
+- 🏢 **Experiencia en Agencia de Marketing Digital:** Más de **30 proyectos** desplegados exitosamente en entornos de alto ritmo (WordPress, WooCommerce, JetEngine) para diversos sectores.
 - 🚀 **Fundador de Soulware:** Gestión integral de proyectos para clientes internacionales (EE.UU. y Latam), abarcando desde el diseño hasta el despliegue en producción.
-- 🎓 **Formación:** Finalizando el último semestre de la **Tecnicatura Superior en Programación (UTN)**.
+- 🎓 **Formación:** Graduado de la **Tecnicatura Superior en Programación (UTN)**.
 - 🔄 **Versatilidad:** Capacidad probada para transitar entre tecnologías diversas (WordPress Avanzado ↔ Java/Spring Boot) manteniendo el enfoque en la **calidad**, la **performance** y la **escalabilidad**.
 - 🧭 **Enfoque:** Comprometido con el **Clean Code**, las buenas prácticas y el desarrollo de habilidades de liderazgo en equipos ágiles.
 
